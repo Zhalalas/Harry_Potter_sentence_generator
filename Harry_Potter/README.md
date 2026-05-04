@@ -33,6 +33,7 @@ Bring the magic to your machine in seconds:
 git clone https://github.com/Zhalalas/Harry_Potter_sentence_generator.git
 cd Harry_Potter_sentence_generator/Harry_Potter
 
+
 ## 🎨 Why This Project Exists  
 
 Sometimes, the best way to learn is to build something fun — and a little magical.
